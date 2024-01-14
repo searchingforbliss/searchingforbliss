@@ -1,5 +1,7 @@
 # Searching For Bliss
 
+A site dedicated to the need many of us have to find bliss in life through travel. Follow the below links to explore the world with us.
+
 [HomePage](https://www.searchingforbliss.com)
 
 ## Malta
